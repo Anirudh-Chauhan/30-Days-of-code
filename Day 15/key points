@@ -1,1 +1,3 @@
 
+logic behind this is you have to calculate the C(n-1,r-1).
+Here in the solution author use dp to calculate nCr for values upto 102.
